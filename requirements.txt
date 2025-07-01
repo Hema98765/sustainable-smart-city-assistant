@@ -1,0 +1,8 @@
+openai
+streamlit
+fastapi
+uvicorn
+pinecone-client
+pandas
+matplotlib
+scikit-learn
